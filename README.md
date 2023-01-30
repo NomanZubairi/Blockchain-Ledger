@@ -1,4 +1,4 @@
-# challenge18
+## Screenshots
 
 ![image1](images/screenshot1.png)
 
